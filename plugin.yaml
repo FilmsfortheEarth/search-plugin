@@ -1,0 +1,6 @@
+plugin:
+    name: 'ffte.search::lang.plugin.name'
+    description: 'ffte.search::lang.plugin.description'
+    author: Ffte
+    icon: oc-icon-search
+    homepage: ''
